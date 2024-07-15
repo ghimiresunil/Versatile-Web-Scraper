@@ -1,0 +1,14 @@
+<YOUR_VENDOR_NAME>:
+  base:
+    url: <URL_OF_THE_SITE_FROM-WHERE_YOU_WANT_TO_EXTRACT_ALL_URLS>
+    path:
+      - <PATH_TO_SINGLE_URL_ELEMENT>
+  content:
+    <CONTENT_SECTION_1>:
+      path:
+        - <YOUR_CSS_SELECTOR_PATH>
+      terminator: <YOUR_CSS_SELECTOR_PATH_TO_TERMINATING_POINT>
+    <CONTENT_SECTION_2>:
+      path:
+        - <YOUR_CSS_SELECTOR_PATH>
+      terminator: <YOUR_CSS_SELECTOR_PATH_TO_TERMINATING_POINT>
