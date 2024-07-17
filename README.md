@@ -88,6 +88,6 @@ if __name__ == "__main__":
 > Remember: **YOUR_VENDOR_NAME** should match one in the **config.yaml** file.
 
 
-## Contributing
+## Contribution
 
 Contributions are welcome! Please fork the repository and submit a pull request with your enhancements or bug fixes.
