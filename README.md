@@ -85,7 +85,7 @@ if __name__ == "__main__":
     data = asyncio.run(main(VENDOR, OUTPUT_FILE))
 ```
 
-> Remember: **YOUR_VENDOR_NAME** should match one in the **config.yaml** file.
+> Remember: **YOUR_VENDOR_NAME** should match one in the **[config.yaml](https://github.com/ghimiresunil/Versatile-Web-Scraper/blob/main/config.yaml)** file.
 
 
 ## Contribution
